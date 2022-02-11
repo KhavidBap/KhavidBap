@@ -4,6 +4,6 @@
 
 Rhythm / Puzzle gamer
 
-Currently taking part of Codeforces / Codechef as a newbie
+Currently taking part of Codeforces / Codechef contests
 
-Will publish my solutions for some problems in Vietnamese / English with Pascal (or C++, or both) code, maybe projects in the near future.
+Will publish my solutions for some problems with Pascal (or C++, or both) code, maybe projects in the near future.
