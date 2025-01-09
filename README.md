@@ -1,6 +1,6 @@
 **@KhavidBap** / ***@KhavidNgo*** *(Twitter)*
 
-**19 y.o / Vietnamese**
+**20 y.o. / Vietnamese**
 
 **Rhythm / Puzzle** *gamer* | **Anime / Fanart** *lover*
 
